@@ -32,6 +32,9 @@ python personal_info.py
 ```
 
 4. Enter the required information when prompted
+   <img width="1919" height="1144" alt="image" src="https://github.com/user-attachments/assets/0f04c1db-136e-4f04-befd-6fae78681db8" />
+<img width="1919" height="1144" alt="Screenshot 2026-06-14 233203" src="https://github.com/user-attachments/assets/87d48746-d2fe-4945-9d49-57d9884abf5b" />
+
 
 ## Sample Output
 
