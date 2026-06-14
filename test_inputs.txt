@@ -1,0 +1,15 @@
+Test Case 1
+Favorite Food: Burger
+Favorite Color: Pink
+
+Test Case 2
+Favorite Food: Biryani
+Favorite Color: Black
+
+Test Case 3
+Favorite Food:
+Expected Result: Program asks again for input
+
+Test Case 4
+Favorite Color:
+Expected Result: Program asks again for input
