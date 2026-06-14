@@ -33,12 +33,11 @@ python personal_info.py
 
 4. Enter the required information when prompted
 
-## Sample Output
 
    <img width="1919" height="1144" alt="image" src="https://github.com/user-attachments/assets/0f04c1db-136e-4f04-befd-6fae78681db8" />
   <img width="1919" height="728" alt="Screenshot 2026-06-14 233141" src="https://github.com/user-attachments/assets/dec58eca-d0d6-4b95-859c-48a2258f102e" />
 
-
+## Sample Output
 
 Name           : Saniya Choughule
 Age            : 20 years
