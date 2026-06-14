@@ -46,9 +46,9 @@ Name           : Saniya Choughule
 Age            : 20 years
 Age in Months  : 240
 City           : Mumbai
-Hobby          : Coding
-Favorite Food  : Pizza
-Favorite Color : Blue
+Hobby          : Dancing
+Favorite Food  : Momos
+Favorite Color : Pink
 ```
 
 ## Challenges & Solutions
